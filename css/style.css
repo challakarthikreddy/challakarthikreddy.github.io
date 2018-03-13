@@ -95,6 +95,7 @@ header .wrap {
 }
 header .logo {
   margin-top:1px;
+  margin-bottom:5px;
 }
 header nav {
   float:right;
